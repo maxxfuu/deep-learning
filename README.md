@@ -5,7 +5,7 @@ A deep-dive into the entire history of deep learning. Starting from a simple Fee
 > [!Important] 
 > 
 > This project is heavily inspired by [adam-maj] (https://github.com/adam-maj/deep-learning/tree/main), The book, Understanding Deep Learnign, and [labml.ai] (https://labml.ai/)
->
+
 > [!NOTE]
 > Thank you to the mentors whom guided throughout this project. And thank you to the friends that contributed this proeject. 
 
